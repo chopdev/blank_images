@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chopdev/blank_images/issues"
   },
-  "homepage": "https://github.com/chopdev/blank_images#readme"
+  "homepage": "https://github.com/chopdev/blank_images#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "get-pixels": "^3.3.2",
+    "move-file": "^1.2.0",
+    "path": "^0.12.7"
+  }
 }
